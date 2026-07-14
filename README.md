@@ -2,6 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3000&color=00CFFF&center=true&vCenter=true&width=700&lines=Software+Engineer;Full+Stack+Developer;Master's+IT+Student;Always+Learning+New+Technologies)](https://git.io/typing-svg)
 
+
 ### Master's Student | Software Engineer | Full Stack Developer
 
 I'm currently pursuing a Master of Applied Information Technology in New Zealand.
