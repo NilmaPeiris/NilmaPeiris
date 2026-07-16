@@ -47,7 +47,8 @@ I'm currently pursuing a Master of Applied Information Technology in New Zealand
 
 - ASP.NET Core MVC
 - Cloud Computing
-- AI & Machine Learning
+- AI
+- Machine Learning
 
 ---
 
