@@ -11,6 +11,7 @@ I'm currently pursuing a Master of Applied Information Technology in New Zealand
 - Software Testing
 - Data Analysis
 - Web Development
+- REST APIs
 
 
 ---
